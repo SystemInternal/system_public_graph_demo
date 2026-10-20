@@ -12,7 +12,7 @@ The **System Public** Graph is a deployed, statistical graph whose atomic unit i
 
 ## How to use
 
-In order to run the notebooks, you need to request an API key......
+In order to run the notebooks, you need to request an API key from https://www.system.com/public
 
 
 ## Citation
